@@ -1,5 +1,6 @@
 ## Lab 2 Assignment: Kaggle Competition
 
+---
 
 ### Hint:
 1. Preprocessing skills and strategies are very important.
