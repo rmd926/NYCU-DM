@@ -1,4 +1,4 @@
-## Lab 1 Implementation of Apriori Algorithm 
+## Lab 1 Assignment: Implementation of Apriori Algorithm 
 
 ---
 
