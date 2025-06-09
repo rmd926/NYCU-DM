@@ -1,4 +1,4 @@
-## Here are some implementations of this lab.
+## Lab 2 Assignment: Kaggle Competition
 
 
 ### Hint:
@@ -13,5 +13,7 @@ Owing to the fairness of the competition and prevent from the copy and paste iss
 
 ### Ranking Snapshot:
 ![image](https://github.com/user-attachments/assets/ddcd2547-3c1f-490e-bcf1-9e157cf842c1)
+![image](https://github.com/user-attachments/assets/f587e5e6-5ab0-4317-b2f6-34d0bfbcbf07)
+
 
 
