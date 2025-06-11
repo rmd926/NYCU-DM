@@ -9,3 +9,6 @@
 4. As for the non-candidate-based algorithm, you can refer to my report.
 
 ### Do not copy and paste XD
+
+---
+### Grade: 90
